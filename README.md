@@ -1,4 +1,4 @@
-# Reinforcement Learning Strategy and Risk Management via Fundamental and Technical Indicators
+# Reinforcement Learning Strategy and Risk Management
 
 This repository is created for the final project paper and codes for course FRE 6123: Financial Risk Management.
 
