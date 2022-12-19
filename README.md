@@ -8,7 +8,7 @@ Final written paper of our project. This is a coherent research on Q-learning an
 
 ## Codes
 
-Folder Codes consists of all the codes we used. For specific information please see click the folder.
+Folder 'codes' consists of all the codes we used. For specific information please see click the folder.
 
 ## Acknowledgement 
 
